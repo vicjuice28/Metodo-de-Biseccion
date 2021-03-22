@@ -4,7 +4,7 @@
 using namespace std;
 
 //Variables globales
-double Xi= 1, Xs= 2 , Xm, Fxi, Fxs, Fxm, XmA=0;
+double Xi= 1, Xs= 2 , Xm, Fxi, Fxs, Fxm, XmA=1;
 double tolerancia = 0.01;
 double Error;
 int i=0;
